@@ -27,4 +27,5 @@ eTickets is a complete web application built with **ASP.NET Core MVC** that allo
 ---
 
 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
